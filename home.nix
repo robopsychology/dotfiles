@@ -16,6 +16,7 @@
     git = {
       enable = true;
       userName = "robopsychology";
+      userEmail = "eddy@eddysh.com";
     };
   };
 
